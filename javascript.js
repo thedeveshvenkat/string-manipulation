@@ -1,3 +1,5 @@
+//check
+
 const button = document.querySelector("#button");
 const reverseButton = document.querySelector("#reverseButton");
 const text = document.querySelector("input");
